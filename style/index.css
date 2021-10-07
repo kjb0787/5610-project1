@@ -1,0 +1,30 @@
+.seal-content {
+    width: 100%;
+    margin-top: 200px;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: auto;
+    background-color: #FE8F8F;
+}
+
+.footnote {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-top: auto;
+    background-color: #FCD2D1;
+}
+
+.intro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-top: auto;
+    background-color: #FFEDD3;
+}

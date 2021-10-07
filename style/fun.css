@@ -1,0 +1,29 @@
+.fun-area {
+    width: 100%;
+    margin-top: 200px;
+}
+
+.image {
+    display: flex;
+    justify-content: space-between;
+    margin-top: auto;
+    background-color: #FE8F8F;
+}
+
+.footnote {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #FCD2D1;
+    margin: 0;
+}
+
+.intro-area {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    background-color: #FFEDD3;
+    margin: 0;
+}
